@@ -1,0 +1,46 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+   padding: 0;
+   box-sizing: inherit;
+}
+
+
+body{
+    box-sizing: border-box;
+    
+    line-height: 1.6;
+}
+
+
+.head{
+    text-align: center;
+    font-size: 40px;
+    text-transform: uppercase;
+  color: chocolate;
+  padding: 12px;
+
+
+  
+}
+.head-table{
+  padding: 40px 380px;
+
+  
+}
+.head-body{
+    margin: 60px;
+}
+.head-head{
+    text-transform: uppercase;
+    padding: 10px 60px;
+    border: 1px solid chocolate;
+}
+
+.head-data{
+ text-align: center;
+ text-transform: capitalize;
+ font-size: 20px;
+ border: 1px solid chocolate;
+}
